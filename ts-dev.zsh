@@ -1,0 +1,1 @@
+tsc src/scripts/* -outDir build/scripts -sourceMap true -w src/scripts/*.ts
